@@ -34,7 +34,7 @@ public class AddToCartLoacators {
     public WebElement letter;
 	
 	@FindBy(xpath="//li[@class='productname']//child::span[@class='ptitle']")
-    public WebElement empty;
+   wertyuiop][poiuyt public WebElement empty;
 
 	
 	
