@@ -19,7 +19,7 @@ public class AddToCartLoacators {
 	@FindBy(xpath="//*[@id=\"517144_CU00344584\"]/div[1]/div/div[2]/div[2]/a[1]/img")
     public WebElement SecondProduct;
 	
-	@FindBy(xpath="(//input[@class='mj_btnbg'])[2]")
+	//@FindBy(xpath="(//input[@class='mj_btnbg'])[2]")
     public WebElement SecondCart;
 	
 	
