@@ -50,3 +50,4 @@ public class AddToCartActions {
 		return cartLocators.empty.getText();
 	}
 }
+//njvghfcfhdsutertuo
