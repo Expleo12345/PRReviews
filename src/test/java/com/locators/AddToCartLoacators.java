@@ -4,7 +4,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 public class AddToCartLoacators {
 	
-	@FindBy(xpath="//input[@id='txtSearch']")
+	//@FindBy(xpath="//input[@id='txtSearch']")
 	public WebElement search;
 	
 	@FindBy(xpath="//input[@class='mj_btnbg FormSectionDefaultButton']")
