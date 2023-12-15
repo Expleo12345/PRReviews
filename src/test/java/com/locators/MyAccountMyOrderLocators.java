@@ -15,7 +15,7 @@ public class MyAccountMyOrderLocators {
 	
 	
 	//Assertion Checking
-	@FindBy(xpath = "//div[@class='smallmsg_text']")
-	WebElement NoOrdersfound;
+	//@FindBy(xpath = "//div[@class='smallmsg_text']")
+	//WebElement NoOrdersfound;
 
 }
